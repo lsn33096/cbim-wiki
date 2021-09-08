@@ -20,6 +20,13 @@
     *  Related Papers: 
         *   [Link](www.google.com)
 
+*  Aug.25	Di Liu **Transformers for Medical Image Segmentation**  
+    *  PPT:
+    *  Related Papers: 
+        *   [An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
+        *   [Cvt: Introducing convolutions to vision transformers](https://arxiv.org/pdf/2103.15808.pdf)
+        *   [Transunet: Transformers make strong encoders for medical image segmentation](https://arxiv.org/pdf/2102.04306.pdf)
+ 
 *  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
    *  PPT: 
    *  Related Papers:
