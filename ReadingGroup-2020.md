@@ -20,7 +20,7 @@
     *  Related Papers: 
         *   [Link](www.google.com)
 
-*  Aug.25	Di Liu **Transformers for Medical Image Segmentation**  
+*  Sep.8	Di Liu **Transformers for Medical Image Segmentation**  
     *  PPT:
     *  Related Papers: 
         *   [An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
